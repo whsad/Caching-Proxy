@@ -1,0 +1,10 @@
+proxy:
+  origin: https://dummyjson.com
+server:
+  port: 3000
+
+spring:
+  main:
+    allow-bean-definition-overriding: true
+    add-command-line-properties: true
+
