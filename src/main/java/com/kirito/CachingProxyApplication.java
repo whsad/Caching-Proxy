@@ -73,7 +73,7 @@ public class CachingProxyApplication {
         System.out.println("  caching-proxy --port <number> --origin <url>");
         System.out.println("  caching-proxy --clear-cache");
         System.out.println("Options:");
-        System.out.println("  --port <number>    Specify the server port (default: 8080)");
+        System.out.println("  --port <number>    Specify the server port (default: 3000)");
         System.out.println("  --origin <url>     Specify the proxy origin URL");
         System.out.println("  --clear-cache      Clear the cache and exit");
         System.out.println("  --help             Show this help message");
